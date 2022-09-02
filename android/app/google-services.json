@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942153503415",
+    "project_id": "gesturesapp-cef17",
+    "storage_bucket": "gesturesapp-cef17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942153503415:android:f62b216270dc75ac2f3332",
+        "android_client_info": {
+          "package_name": "com.example.gestures_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942153503415-rtf26990bg1nde4hl1qn30kg8ikg00g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestures_app",
+            "certificate_hash": "a72f3a1a021169e176429e4149bf925530b8c32c"
+          }
+        },
+        {
+          "client_id": "942153503415-etsbsbj8u81ukrf68dibut17gt75vfj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRm7J2_Wxa2qDMC_dwfyxZawocc2F4TjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942153503415-etsbsbj8u81ukrf68dibut17gt75vfj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
